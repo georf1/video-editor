@@ -11,6 +11,8 @@ python = "^3.10"
 moviepy = "^1.0.3"
 flake8 = "^6.0.0"
 
+[tool.poetry.scripts]
+video-editor = "video_editor.script:main"
 
 [build-system]
 requires = ["poetry-core"]
