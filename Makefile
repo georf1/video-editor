@@ -1,4 +1,4 @@
-instll:
+install:
 	poetry install
 
 
