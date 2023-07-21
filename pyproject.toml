@@ -9,6 +9,7 @@ packages = [{include = "video_editor"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 moviepy = "^1.0.3"
+flake8 = "^6.0.0"
 
 
 [build-system]
